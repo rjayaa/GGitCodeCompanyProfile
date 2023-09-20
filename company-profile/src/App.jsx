@@ -5,7 +5,7 @@ import "./index.css";
 
 const App = () => (
     <div className="flex justify-center text-[#c6a]">
-      <h1>gGITcode</h1>
+      <h1>Git Asu</h1>
     </div>
 );
 
