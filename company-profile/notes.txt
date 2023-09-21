@@ -1,0 +1,60 @@
+RULES / NOTES 
+{*SEBELUM PUSH JANGAN LUPA DI PULL DULU*}
+
+GIT WORKLFLOW:
+-, branch -> main = buat deploy dan konfigurasi awal, 
+-, tunggu seminggu sekali kita open pr buat push feature yang suda di buat ke main, 
+-, sebelum itu di hold di branch masing-masing terlebih dahulu. 
+-. adiin branch masing2 sebagai branch development.
+
+JOB DESK:
+1. Jaya --> component/feature
+        --> feature/contact
+
+2. Paiz -->  component/footer 
+        -->  pages/product
+
+3. oled -->  pages/home 
+        -->  component/navbar
+
+COLOR HEX:
+1. --------> 'mine-shaft': {
+            '50': '#f4f3f2',
+            '100': '#e3e0de',
+            '200': '#c8c4c0',
+            '300': '#a9a19b',
+            '400': '#90867f',
+            '500': '#827570',
+            '600': '#6f635f',
+            '700': '#5a504e',
+            '800': '#4e4645',
+            '900': '#453e3e',
+            '950': '#211d1d',
+        }
+2. --------> 'brandy': {
+            '50': '#fbf9f1',
+            '100': '#f5f1df',
+            '200': '#e9e0bf',
+            '300': '#dccb98',
+            '400': '#ccae6b',
+            '500': '#c1984e',
+            '600': '#b38443',
+            '700': '#956a39',
+            '800': '#785534',
+            '900': '#62472c',
+            '950': '#342316',
+        },
+3. --------> 'equator': {
+            '50': '#faf7ec',
+            '100': '#f4ebcd',
+            '200': '#ead69e',
+            '300': '#dbb257',
+            '400': '#d39e3c',
+            '500': '#c4882e',
+            '600': '#a86a26',
+            '700': '#874e21',
+            '800': '#714022',
+            '900': '#613622',
+            '950': '#381b10',
+        },
+
